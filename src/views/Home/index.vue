@@ -1,6 +1,6 @@
 <template>
   <!-- 这个是头部组件 -->
-  <AppHeader/>
+  <App-Header/>
   <!-- 频道组件 -->
   <home-channel/>
   <!--轮播组件  -->

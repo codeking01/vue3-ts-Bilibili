@@ -22,6 +22,7 @@ axios({
   method: 'get'
 }).then(res => {
   console.log(res.data)
+
   list.value = res.data.result
 })
 
