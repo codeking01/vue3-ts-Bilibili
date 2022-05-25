@@ -1,5 +1,5 @@
 <template>
-  <p class="pc">哈哈哈</p>
-
+  <!-- 配置路由渲染的位置 -->
+  <router-view></router-view>
 </template>
 
