@@ -9,7 +9,6 @@ import {Tab, Tabs, Swipe, SwipeItem} from 'vant';
 //引入mock
 import '@/mock/index'
 
-
 const app = createApp(App)
 app.use(router)
 app.use(Tab);

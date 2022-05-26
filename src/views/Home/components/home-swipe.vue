@@ -7,7 +7,6 @@
       <img :src="item.imgSrc"/>
     </van-swipe-item>
   </van-swipe>
-
 </template>
 
 <script setup lang="ts">
